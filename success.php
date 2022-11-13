@@ -36,7 +36,7 @@
 
      }
 ?>
-<img src= "<?php echo $destination; ?>" class = "rounded-cirlce" style= "width: 50%; height: 50%" />
+<img src= "<?php echo $destination; ?>" class = "rounded-cirlce" style= "width: 20%; height: 20%" />
 
 <div class="card" style="width: 28rem;">
   <div class="card-body">

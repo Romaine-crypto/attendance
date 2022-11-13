@@ -1,6 +1,6 @@
 <?php
     //$host = 'localhost';
-    //$db = 'attendance_romaine';
+   // $db = 'attendance_romaine';
     //$user = 'root';
     //$pass = '';
     //$charset = 'utf8mb4';

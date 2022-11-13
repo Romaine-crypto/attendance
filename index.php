@@ -9,8 +9,8 @@
 ?>
 
     <h1 class="text-center" >Registration for IT Conference</h1>
-
-        <form method="post" action ="success.php">
+    
+        <form method="post" action ="success.php" enctype="multipart/form-data">
             <div class="form-row">
                 <div class="form-group col-md-6">
                     <label for="inputfirstname">First Name</label>
